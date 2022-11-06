@@ -1,0 +1,7 @@
+Starten van de virtual envoirement door
+command in de command line te type: 
+
+source env/Scripts/activate
+
+Het opstarten van de django server gaat met het volgende command: 
+- python manage.py runserver
